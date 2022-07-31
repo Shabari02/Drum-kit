@@ -1,4 +1,4 @@
-# Drum-kit
+# Drum-kit challenge by App brewery 
 # Click <a href="https://shabari02.github.io/Drum-kit/">Here</a> 😄
 
 # Preview
